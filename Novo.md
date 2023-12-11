@@ -1,4 +1,4 @@
-# Ta funkcija najprej preveri, ali je daljši niz vsaj tako dolg kot krajši niz. Nato z zanko preveri vsak možen podniz daljšega niza in primerja s krajšim nizom. Če najde ujemanje, dodajo indeks v seznam. Na koncu vrne seznam indeksov, kjer se začne krajši niz v daljšem nizu. V primeru, da krajši niz ni vsebovan v daljšem, vrne prazen seznam.
+Ta funkcija najprej preveri, ali je daljši niz vsaj tako dolg kot krajši niz. Nato z zanko preveri vsak možen podniz daljšega niza in primerja s krajšim nizom. Če najde ujemanje, dodajo indeks v seznam. Na koncu vrne seznam indeksov, kjer se začne krajši niz v daljšem nizu. V primeru, da krajši niz ni vsebovan v daljšem, vrne prazen seznam.
 
 def najdi_indekse(d, k):
     if len(d) < len(k):
