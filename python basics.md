@@ -1,7 +1,7 @@
 # Data Types
 Python has several built-in data types, including:
 
-Integers: Numbers without decimals, such as 1, 2, 3, and 4.
+Integers: Numbers without decimals, such as 1, 2, 3, and 4.kjnk
 
 Strings: Sequences of characters, such as "hello", "world", and "python".
 
